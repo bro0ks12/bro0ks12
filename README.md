@@ -14,7 +14,7 @@
 
 ### 🎧 Spotify Playing
 
-[![Spotify](https://novatorem.maurosex.vercel.app/api/spotify)](https://open.spotify.com/user/maurosex)
+[![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/maurosex)
 
 ### 🛠 Skills :
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
