@@ -1,9 +1,9 @@
 ### Hi there, I'm Mauro Filipe <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![Website](https://img.shields.io/badge/-Website-Purple?style=for-the-badge&logo=Chrome&logoColor=white&link=https://aderitoneto.github.io/)](https://aderitoneto.github.io/)
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_clout.master_/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Bro0kS?color=1DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/L1LNT)
+[![Website](https://img.shields.io/badge/-Website-Purple?style=for-the-badge&logo=Chrome&logoColor=white&link=https://bro0ks.me/)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-maria-7046181b3/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauro.filipe12)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Bro0kS?color=1DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/maurofilipe20)
 
 ## I'm a student, Developer, and sometimes a Gamer!
 
@@ -15,7 +15,7 @@
 
 ### 🎧 Spotify Playing
 
-[![Spotify](https://novatorem.aderitoneto.vercel.app/api/spotify)](https://open.spotify.com/user/maurosex)
+[![Spotify](https://novatorem.maurosex.vercel.app/api/spotify)](https://open.spotify.com/user/maurosex)
 
 ### 🛠 Skills :
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -46,15 +46,15 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="AN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AderitoNeto&theme=synthwave&bg_color=DEG,b5ceff,5b00bd&title_color=ffffff&text_color=a9fef7&icon_color=ce08ff&show_icons=true&hide_border=true" />
+<img align="left" alt="AN's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bro0ks12&theme=synthwave&bg_color=DEG,b5ceff,5b00bd&title_color=ffffff&text_color=a9fef7&icon_color=ce08ff&show_icons=true&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AderitoNeto&hide=TeX&layout=compact&bg_color=DEG,b5ceff,5b00bd&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bro0ks12&hide=TeX&layout=compact&bg_color=DEG,b5ceff,5b00bd&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
 
 <br />
 
 </details>
 
-[website]: https://aderitoneto.github.io/
-[twitter]: https://twitter.com/L1LNT
-[instagram]: https://www.instagram.com/_clout.master_/
-[linkedin]: https://www.linkedin.com/in/ad%C3%A9rito-neto-6740311b6/
+[website]: https://bro0ks.me/
+[twitter]: https://twitter.com/maurofilipe20
+[instagram]: https://www.instagram.com/mauro.filipe12
+[linkedin]: https://www.linkedin.com/in/mauro-maria-7046181b3/
