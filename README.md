@@ -1,6 +1,6 @@
 ### Hi there, I'm Mauro Filipe <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-[![Website](https://img.shields.io/badge/-Website-Purple?style=for-the-badge&logo=Chrome&logoColor=white&link=https://bro0ks.me/)
+[![Website](https://img.shields.io/badge/-Website-Purple?style=for-the-badge&logo=Chrome&logoColor=white)](https://bro0ks.me/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-maria-7046181b3/)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauro.filipe12)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Bro0kS?color=1DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/maurofilipe20)
