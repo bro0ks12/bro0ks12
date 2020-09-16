@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/badge/-Website-Purple?style=for-the-badge&logo=Chrome&logoColor=white)](https://bro0ks.me/)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauro-maria-7046181b3/)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mauro.filipe12)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Bro0kS?color=1DA1F2&label=Twitter&logo=Twitter&style=for-the-badge)](https://twitter.com/maurofilipe20)
 
 ## I'm a student, Developer, and sometimes a Gamer!
 
@@ -29,9 +27,7 @@
 ### 🚡 Connect with me :
 
 [<img align="left" alt="bro0ks.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 
 <h1 align="center">
@@ -49,6 +45,4 @@
 </details>
 
 [website]: https://bro0ks.me/
-[twitter]: https://twitter.com/maurofilipe20
-[instagram]: https://www.instagram.com/mauro.filipe12
 [linkedin]: https://www.linkedin.com/in/mauro-maria-7046181b3/
