@@ -15,13 +15,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <br />
 
-### 🚡 Connect with me :
-
-[<img align="left" alt="bro0ks.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="AN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
-
-  <summary>:zap: Github Stats</summary>
+### Github Stats :
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bro0ks12&hide=TeX&layout=compact&bg_color=DEG,b5ceff,5b00bd&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
 
