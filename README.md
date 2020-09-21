@@ -32,9 +32,6 @@
 [<img align="left" alt="AN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-<h1 align="center">
-  <img src="https://github.com/bro0ks12/bro0ks12/blob/master/img/synth.gif">
-</h1>
 <details>
   <summary>:zap: Github Stats</summary>
 
