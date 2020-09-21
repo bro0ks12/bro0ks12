@@ -33,7 +33,7 @@
 <br />
 
 <h1 align="center">
-  <img src="https://github.com/AderitoNeto/AderitoNeto/blob/master/img/synth.gif">
+  <img src="https://github.com/bro0ks12/bro0ks12/blob/master/img/synth.gif">
 </h1>
 <details>
   <summary>:zap: Github Stats</summary>
