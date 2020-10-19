@@ -5,6 +5,6 @@
 
 ### Github Stats :
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bro0ks12&hide=TeX&layout=compact&bg_color=DEG,b5ceff,5b00bd&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bro0ks12&hide=TeX&layout=compact&bg_color=DEG,0000DD,248EFF&text_color=ffffff&title_color=ffffff&show_icons=true&hide_border=true)
 
 <br />
