@@ -1,6 +1,6 @@
 <h1>Welcome</h1>
 
-- 🌱 I’m currently learning **Html, Css, React.Js.**
+- 🌱 I’m currently learning **Html, Css, JavaScript.**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
